@@ -253,7 +253,7 @@ const Hero: React.FC = () => {
     <HeroContainer>
       <LeftContainer>
         <h1>{topLine}</h1> {/* Display random headline */}
-        <GradientText>I'm TJ Klint.</GradientText> {/* Display name with gradient effect */}
+        <GradientText>I'm Shubham Kumar</GradientText> {/* Display name with gradient effect */}
         <TypewriterText>{currentText}</TypewriterText> {/* Display typewriter effect text */}
       </LeftContainer>
       <RightContainer ref={rightContainerRef}>
