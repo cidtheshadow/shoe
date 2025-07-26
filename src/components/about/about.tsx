@@ -27,7 +27,7 @@ const About: React.FC = () => {
         <div className="about-text">
         <h2 className="about-title">About Me</h2>
           <p>
-            Hello! My name is <span className="purple-text">TJ Klint</span>, well, technically it's <i>Timothy</i> (our little secret). 
+            Hello! My name is <span className="purple-text">Shubham Kumar</span>, well, technically it's <i>Timothy</i> (our little secret). 
             Anyways, I'm a passionate developer with a love for coding and technology. Most recently, I am working as a <span className="purple-text">Software Developer at CSE </span>
             (Communications Security Establishment) and previously a Software Developer at Bell.
           </p>
